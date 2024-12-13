@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Bog1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Bog1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bog1.dll": {}
+        }
+      },
+      "Programme 2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Programme 2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Programme 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bog1/1.0.0": {
+      "type": "project",
+      "path": "../Bog1/Bog1.csproj",
+      "msbuildProject": "../Bog1/Bog1.csproj"
+    },
+    "Programme 2/1.0.0": {
+      "type": "project",
+      "path": "../Programme 2/Programme 2.csproj",
+      "msbuildProject": "../Programme 2/Programme 2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Bog1 >= 1.0.0",
+      "Programme 2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hhe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hhe\\source\\repos\\P1 - OPG1\\ConsoleApp5\\ConsoleApp5.csproj",
+      "projectName": "ConsoleApp5",
+      "projectPath": "C:\\Users\\hhe\\source\\repos\\P1 - OPG1\\ConsoleApp5\\ConsoleApp5.csproj",
+      "packagesPath": "C:\\Users\\hhe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hhe\\source\\repos\\P1 - OPG1\\ConsoleApp5\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\hhe\\source\\repos\\P1 - OPG1\\Bog1\\Bog1.csproj": {
+              "projectPath": "C:\\Users\\hhe\\source\\repos\\P1 - OPG1\\Bog1\\Bog1.csproj"
+            },
+            "C:\\Users\\hhe\\source\\repos\\P1 - OPG1\\Programme 2\\Programme 2.csproj": {
+              "projectPath": "C:\\Users\\hhe\\source\\repos\\P1 - OPG1\\Programme 2\\Programme 2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

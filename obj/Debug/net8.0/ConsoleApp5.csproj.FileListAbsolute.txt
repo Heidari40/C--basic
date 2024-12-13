@@ -1,0 +1,52 @@
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.exe
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.deps.json
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.runtimeconfig.json
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.dll
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.pdb
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.dll
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\refint\ConsoleApp5.dll
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Bog1.deps.json
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Bog1.runtimeconfig.json
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Bog1.exe
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Bog1.dll
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Bog1.pdb
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleA.ECD0A8E0.Up2Date
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Programme 2.deps.json
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Programme 2.runtimeconfig.json
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Programme 2.exe
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Programme 2.dll
+C:\Users\hhe\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\Programme 2.pdb
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Bog1.deps.json
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Bog1.runtimeconfig.json
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Bog1.exe
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Programme 2.deps.json
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Programme 2.runtimeconfig.json
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Programme 2.exe
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.exe
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.deps.json
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.runtimeconfig.json
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.dll
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.pdb
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Bog1.dll
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Programme 2.dll
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Bog1.pdb
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\bin\Debug\net8.0\Programme 2.pdb
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleA.ECD0A8E0.Up2Date
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.dll
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\refint\ConsoleApp5.dll
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\hhe\source\repos\P1 - OPG1\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll
